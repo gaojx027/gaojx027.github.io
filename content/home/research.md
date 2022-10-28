@@ -59,7 +59,7 @@ design:
 
 * Estimate Conditional Correlation with Factor Structure
 
-{{< icon name="download" pack="fas" >}} slides {{< staticref "uploads/DCC_factor_paper.pdf" "newtab" >}} latest version {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} download {{< staticref "uploads/DCC_factor_paper.pdf" "newtab" >}} latest version {{< /staticref >}}.
 
 
 
