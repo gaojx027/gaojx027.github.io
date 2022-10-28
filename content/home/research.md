@@ -49,8 +49,8 @@ design:
   {{< figure library="true" src="Granular.png" title="" >}}
   * Abstract: The market capitalization distribution of US firms has a fat tail populated by the largest firms. I refer to this fat tail as granularity and quantify it by the Pareto distribution to study asset pricing implications. Granularity breaks the diversification of idiosyncratic risks assumed by factor models. The size-adjusted idiosyncratic risk explains the expected returns such that only large firms have their idiosyncratic risks un-diversified to generate positive risk premiums. This finding explains the negative relation between idiosyncratic risk and stock returns, known as the "idiosyncratic risk puzzle." The level of granularity, measured by the Pareto coefficient of firm size, explains market expected returns since it determines the under-diversification of idiosyncratic risk at the aggregate level.
 <br> </br>
-  * {{< icon name="download" pack="fas" >}} paper {{< staticref "uploads/paper_version4.pdf" "newtab" >}} latest version {{< /staticref >}}.
-  * {{< icon name="download" pack="fas" >}} slides {{< staticref "uploads/Slides_version4.pdf" "newtab" >}} latest version {{< /staticref >}}.
+  * {{< icon name="download" pack="fas" >}} paper {{< staticref "uploads/paper_latest.pdf" "newtab" >}} latest version {{< /staticref >}}.
+  * {{< icon name="download" pack="fas" >}} slides {{< staticref "uploads/Slides_latest.pdf" "newtab" >}} latest version {{< /staticref >}}.
   
 
 
