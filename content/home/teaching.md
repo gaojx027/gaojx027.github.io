@@ -49,7 +49,7 @@ design:
 <br> </br>	
 
 * **MGTF 403: Advanced Financial Risk Management** 
-	* An core class of Master Finance program
+	* A core class of Master Finance program
 	* Hold review session weekly, prepare python code for homework and class illustration
 	* Main Modules: Value-at-Risk analysis, GARCH model, portolio immunization, derivative pricing
 <br> </br>	
