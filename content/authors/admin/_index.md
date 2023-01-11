@@ -35,14 +35,14 @@ organizations:
 - name: Rady School of Management, UCSD
   url: https://rady.ucsd.edu/
 
-social:
+#social:
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gaojx027
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/junxiong-gao-ucsd/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gaojx027
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/junxiong-gao-ucsd/
 superuser: true
 
 ---

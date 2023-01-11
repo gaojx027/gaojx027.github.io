@@ -47,7 +47,7 @@ design:
 * Granular Asset Pricing (Job Market Paper)
 
   {{< figure library="true" src="Granular.png" title="" >}}
-  * Abstract: The market capitalization distribution of US firms has a fat tail populated by the largest firms. I refer to this fat tail as granularity and quantify it by the Pareto distribution to study asset pricing implications. Granularity breaks the diversification of idiosyncratic risks assumed by factor models such that large firms have high idiosyncratic risk premium due to high market weight. This finding explains the negative relation between idiosyncratic risk and stock returns, known as the "idiosyncratic risk premium puzzle." The level of granularity, measured by the Pareto coefficient of firm size, explains market expected returns since it determines the under-diversification of idiosyncratic risk at the aggregate level.
+  * Abstract: The market capitalization distribution of US firms has a fat tail populated by the largest firms. I refer to this fat tail as granularity and show it breaks the diversification of idiosyncratic risks assumed by arbitrage pricing theory (APT) to imply factor models. In cross-section, large firms have higher idiosyncratic risk premiums than small firms despite having a lower level of risk. This finding explains the negative relation between idiosyncratic risk and risk premium, known as the "idiosyncratic risk premium puzzle." On aggregate, the level of granularity, measured by the Pareto distribution, explains market expected returns since it determines the under-diversification of idiosyncratic risk.
   * {{< icon name="download" pack="fas" >}} paper {{< staticref "uploads/granularity_paper_latest.pdf" "newtab" >}} latest version {{< /staticref >}}.
 
   
